@@ -1,0 +1,23 @@
+# Dataset
+data/
+*.jsonl
+
+# Embeddings
+artifacts/
+*.npy
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Output
+output/
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
